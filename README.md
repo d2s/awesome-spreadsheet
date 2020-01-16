@@ -52,5 +52,5 @@ Collection of resources about spreadsheets
 > “Every spreadsheet is an app (or SaaS) prototype.  
 > And the corollary: many average apps or SaaS services  
 > can be replaced with a spreadsheet and the UX might even improve.”  
-> —[Janne Aukia](https://twitter.com/jaukia/status/1079070559571456000)
+> — [Janne Aukia](https://twitter.com/jaukia/status/1079070559571456000). Twitter post. 2018-12-29 at 19:44.
 
